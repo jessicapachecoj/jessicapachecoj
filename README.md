@@ -34,7 +34,7 @@ IA Generativa, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Co
 | **[IA e LLMs](https://github.com/jessicapachecoj/genai-llms)** | Experimentos com modelos de linguagem, chatbots e agentes inteligentes.  
 | **[Multiagente de negociação](https://github.com/jessicapachecoj/multiagente-negociacao)** | Sistema de compra e venda com múltiplos agentes, negociação automatizada e estratégias inteligentes.  
 | **[Análise de dados](https://github.com/jessicapachecoj/regressao-temperatura)** | Regressão polinomial em dados históricos de temperatura, extrapolação e gráficos comparativos.  
-| **[Estruturas de dados](https://github.com/jessicapachecoj/estruturas-de-dados)** | Simulador de aeroporto, listas encadeadas, pilhas e filas implementadas em C.  
+| **[Estruturas de dados](https://github.com/jessicapachecoj/estruturas-de-dados)** | Implementação do Algoritmo de Huffman Adaptativo (FGK) em C.
 | **[Computação gráfica 3D](https://github.com/jessicapachecoj/computacao-grafica-3d)** | Visualização 3D, transformações geométricas, clipping, OBJ loader e projeções ortogonal/perspectiva.  
 
 ---
