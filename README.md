@@ -32,10 +32,13 @@ IA Generativa, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Co
 | Projeto | Descrição |
 |---------|-----------|
 | **[IA e LLMs](https://github.com/jessicapachecoj/genai-llms)** | Experimentos com modelos de linguagem, chatbots e agentes inteligentes.  
-| **[Multiagente de negociação](https://github.com/jessicapachecoj/multiagente-negociacao)** | Sistema de compra e venda com múltiplos agentes, negociação automatizada e estratégias inteligentes.  
-| **[Análise de dados](https://github.com/jessicapachecoj/regressao-temperatura)** | Regressão polinomial em dados históricos de temperatura, extrapolação e gráficos comparativos.  
-| **[Estruturas de dados](https://github.com/jessicapachecoj/estruturas-de-dados)** | Implementação do Algoritmo de Huffman Adaptativo (FGK) em C.
+| **[Multiagente de negociação](https://github.com/jessicapachecoj/multiagente-negociacao)** | Arquitetura de Agentes Inteligentes para compra e venda, com negociação automatizada e estratégias em Java/JADE.
+| **[Desenvolvimento de Software](https://github.com/jessicapachecoj/Taskly)** | App Fullstack Mobile (Flutter/Dart) com arquitetura escalável e integração BaaS (Firebase), demonstrando MLOps/Deployment.
+| **[Otimização de Algoritmos (A*)](https://github.com/jessicapachecoj/ai-pathfinding-algorithms-analysis)** | Otimização de Roteamento Inteligente (A* e BFS), com aplicação de heurísticas para eficiência algorítmica e tomada de decisão em sistemas de IA.
+| **[Estruturas de dados](https://github.com/jessicapachecoj/estruturas-de-dados)** | Algoritmo de Compressão Huffman Adaptativo (FGK) em C, focando em manipulação de bits e estruturas dinâmicas.
 | **[Computação gráfica 3D](https://github.com/jessicapachecoj/computacao-grafica-3d)** | Visualização 3D, transformações geométricas, clipping, OBJ loader e projeções ortogonal/perspectiva.  
+| **[Análise de dados](https://github.com/jessicapachecoj/regressao-temperatura)** | Modelagem estatística (Regressão Polinomial) para análise e extrapolação de Séries Temporais (base para ML/Data Science).
+| **[Visão Computacional](https://github.com/jessicapachecoj/modelo-fundo-imagem)** | Otimização de Baixo Nível em Assembly MIPS-32 para processamento de imagens e performance de hardware.
 
 ---
 
