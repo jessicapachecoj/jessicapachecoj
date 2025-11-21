@@ -16,7 +16,6 @@ IA Generativa, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Co
 
 ---
 
-## 🚀 Badges
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-ANSI-brightgreen?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-ISO-blue?logo=c%2B%2B&logoColor=white)
