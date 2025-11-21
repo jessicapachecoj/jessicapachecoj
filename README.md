@@ -11,9 +11,6 @@
 ### 💻 Linguagens & Frameworks
 Python, C, C++, Java, Dart/Flutter, MIPS Assembly | Firebase, GetX, NumPy, Pandas, Matplotlib  
 
-### 🧠 Conceitos & Domínios
-GenAI, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Computação Gráfica, Processamento de Dados  
-
 ---
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
