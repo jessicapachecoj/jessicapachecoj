@@ -37,8 +37,3 @@ Python, C, C++, Java, Dart/Flutter, MIPS Assembly | Firebase, GetX, NumPy, Panda
 | **[Análise de dados](https://github.com/jessicapachecoj/regressao-temperatura)** | Modelagem estatística (Regressão Polinomial) para análise e extrapolação de Séries Temporais (base para ML/Data Science).
 | **[Visão Computacional](https://github.com/jessicapachecoj/modelo-fundo-imagem)** | Otimização de Baixo Nível em Assembly MIPS-32 para processamento de imagens e performance de hardware.
 
----
-
-## 📫 Contato
-[LinkedIn](https://www.linkedin.com/in/jessica-pacheco-a1a355209/) | ✉️ jessicapacheco258@gmail.com  
-
