@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tecnologias & Skills
+## 🛠 Tecnologias
 
 ### 💻 Linguagens & Frameworks
 Python, C, C++, Java, Dart/Flutter, MIPS Assembly | Firebase, GetX, NumPy, Pandas, Matplotlib  
