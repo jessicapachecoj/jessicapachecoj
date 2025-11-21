@@ -12,7 +12,7 @@
 Python, C, C++, Java, Dart/Flutter, MIPS Assembly | Firebase, GetX, NumPy, Pandas, Matplotlib  
 
 ### 🧠 Conceitos & Domínios
-IA Generativa, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Computação Gráfica, Processamento de Dados  
+GenAI, LLMs, Agentes Inteligentes, Data Science, Estruturas de Dados, Computação Gráfica, Processamento de Dados  
 
 ---
 
