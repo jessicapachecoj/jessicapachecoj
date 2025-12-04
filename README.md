@@ -1,5 +1,5 @@
 # Jessica Pacheco
-👋 Olá, eu sou Jéssica  :)
+👋 Ola, eu sou Jéssica  :)
 
 🎓 Estudante de Ciência da Computação | UTFPR  
 🤖 Interesse em **IA Generativa, LLMs, Agentes Inteligentes** e soluções orientadas a dados  
@@ -28,7 +28,6 @@ Python, C, C++, Java, Dart/Flutter, MIPS Assembly | Firebase, GetX, NumPy, Panda
 
 | Projeto | Descrição |
 |---------|-----------|
-| **[IA e LLMs](https://github.com/jessicapachecoj/genai-llms)** | Experimentos com modelos de linguagem, chatbots e agentes inteligentes.  
 | **[Multiagente de negociação](https://github.com/jessicapachecoj/multiagente-negociacao)** | Arquitetura de Agentes Inteligentes para compra e venda, com negociação automatizada e estratégias em Java/JADE.
 | **[Desenvolvimento de Software](https://github.com/jessicapachecoj/Taskly)** | App Fullstack Mobile (Flutter/Dart) com arquitetura escalável e integração BaaS (Firebase), demonstrando MLOps/Deployment.
 | **[Otimização de Algoritmos (A*)](https://github.com/jessicapachecoj/ai-pathfinding-algorithms-analysis)** | Otimização de Roteamento Inteligente (A* e BFS), com aplicação de heurísticas para eficiência algorítmica e tomada de decisão em sistemas de IA.
